@@ -1,3 +1,4 @@
+#if 0
 /**
  * @file
  * @copyright 2016 opencxa.org
@@ -31,4 +32,5 @@
 // ******** global function prototypes ********
 cxa_btle_client_t* cxa_esp32_btle_client_getSingleton(void);
 
+#endif
 #endif

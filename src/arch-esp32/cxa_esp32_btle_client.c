@@ -1,3 +1,4 @@
+#if 0
 /**
  * @copyright 2016 opencxa.org
  *
@@ -190,3 +191,4 @@ static void consoleCb_stopScan(cxa_array_t *const argsIn, cxa_ioStream_t *const 
 {
 	scm_stopScan(&singleton);
 }
+#endif
